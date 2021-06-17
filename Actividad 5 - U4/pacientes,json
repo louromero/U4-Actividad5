@@ -1,0 +1,35 @@
+{
+    "__class__": "Modelo",
+    "Pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Lourdes",
+                "apellido": "Romero",
+                "telefono": "4231279",
+                "altura": "170",
+                "peso": "50"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Ismael",
+                "apellido": "Echaniz",
+                "telefono": "4365586",
+                "altura": "180",
+                "peso": "70"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Zumel",
+                "apellido": "Candela",
+                "telefono": "68468468",
+                "altura": "155",
+                "peso": "40"
+            }
+        }
+    ]
+}
